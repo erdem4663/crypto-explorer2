@@ -10,3 +10,9 @@ A simple command-line tool that fetches live cryptocurrency prices using the Coi
 ```bash
 pip install -r requirements.txt
 python src/cli.py --symbol bitcoin
+## Example Output
+
+```bash
+$ python src/cli.py --symbol bitcoin
+bitcoin price (USD): 110000
+
